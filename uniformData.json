@@ -1590,7 +1590,8 @@
     "name": "DEADPOOL - LADY DEADPOOL",
     "options": [202, 164, 170, 160, 105],
     "potrait_code": "hero_deadpool01_S02",
-    "rating": "4.5"
+    "rating": "4.5",
+    "synergy": ["DEADPOOL - HOLIDAY PARTY", "hero_deadpool01_S03"]
   },
   "219": {
     "charecterId": 32,
@@ -1607,5 +1608,12 @@
     "options": [109, 147, 154, 185, 199],
     "potrait_code": "sv_apocalypse01_S01",
     "rating": "4.5"
+  },
+  "221": {
+    "charecterId": 47,
+    "name": "GWENPOOL - HOLIDAY PARTY",
+    "cost": "Paywall event",
+    "potrait_code": "hero_gwenpool01_S02",
+    "options": [153, 152, 172, 124, 9]
   }
 }
