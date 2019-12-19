@@ -1,5 +1,6 @@
 const fs = require("fs");
 var fuzzy = require("fuzzy");
+const prettier = require("prettier");
 const downloadImage = require("./downloadImage");
 const uniformData = JSON.parse(fs.readFileSync("./uniformData.json"));
 const charecterData = JSON.parse(fs.readFileSync("./charecterData.json"));
@@ -11,7 +12,7 @@ const filterUnis = async (_, input) => {
   return fuzzyResult.map(el => el.original);
 };
 const getUniId = val => {
-  return Object.keys(uniformData).find(
+  return +Object.keys(uniformData).find(
     uniformId => uniformData[uniformId].name === val
   );
 };
@@ -77,12 +78,25 @@ const questions = [
   ...uniformOptionQuestions
 ];
 const resolveAnswers = answers => {
-  console.log(answers, Object.keys(uniformData).length);
+  if (isNaN(answers.charecterId)) {
+    const newId = Object.keys(charecterData).length;
+    charecterData[`${newId}`] = answers.charecterId;
+    fs.writeFileSync(
+      "./charecterData.json",
+      prettier.format(JSON.stringify(charecterData), { parser: "json" })
+    );
+    answers.charecterId = newId;
+  } else {
+    answers.charecterId = +answers.charecterId;
+  }
   uniformData[`${Object.keys(uniformData).length}`] = answers;
   downloadImage(
     `https://mheroesgb.gcdn.netmarble.com/mheroesgb/DIST/Forum/${answers.potrait_code}.png`,
     `./images/${answers.potrait_code}.png`
   );
-  fs.writeFileSync("./uniformData.temp.json", JSON.stringify(uniformData));
+  fs.writeFileSync(
+    "./uniformData.json",
+    prettier.format(JSON.stringify(uniformData), { parser: "json" })
+  );
 };
 module.exports = { questions, resolveAnswers };
