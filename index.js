@@ -3,7 +3,7 @@ inquirer.registerPrompt(
   "autocomplete",
   require("inquirer-autocomplete-prompt")
 );
-const menuOptions = ["Add new charecter"];
+const menuOptions = ["Add new charecter", "Add Synergy Uni"];
 const menuQuestion = [
   {
     type: "list",
@@ -16,6 +16,9 @@ const menuQuestion = [
 inquirer.prompt(menuQuestion).then(choice => {
   if (choice.menu === 0) {
     const { questions, resolveAnswers } = require("./addUniformQuestions");
+    inquirer.prompt(questions).then(resolveAnswers);
+  } else if (choice.menu === 1) {
+    const { questions, resolveAnswers } = require("./addSynergyQuestion");
     inquirer.prompt(questions).then(resolveAnswers);
   }
 });
