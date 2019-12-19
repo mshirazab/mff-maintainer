@@ -1,0 +1,386 @@
+{
+  "0": {
+    "name": "AGENT 13"
+  },
+  "1": {
+    "name": "AGENT VENOM"
+  },
+  "2": {
+    "name": "ANCIENT ONE"
+  },
+  "3": {
+    "name": "ANGELA"
+  },
+  "4": {
+    "name": "ANT-MAN"
+  },
+  "5": {
+    "name": "APOCALYPSE"
+  },
+  "6": {
+    "name": "ANGEL"
+  },
+  "7": {
+    "name": "BEAST"
+  },
+  "8": {
+    "name": "BLACK BOLT"
+  },
+  "9": {
+    "name": "BLACK CAT"
+  },
+  "10": {
+    "name": "BLACK PANTHER"
+  },
+  "11": {
+    "name": "BLACK WIDOW"
+  },
+  "12": {
+    "name": "BLADE"
+  },
+  "13": {
+    "name": "BULLSEYE"
+  },
+  "14": {
+    "name": "CABLE"
+  },
+  "15": {
+    "name": "CAPTAIN AMERICA"
+  },
+  "16": {
+    "name": "CAPTAIN AMERICA (SHARON ROGERS)"
+  },
+  "17": {
+    "name": "CAPTAIN MARVEL"
+  },
+  "18": {
+    "name": "COLOSSUS"
+  },
+  "19": {
+    "name": "CORVUS GLAIVE"
+  },
+  "20": {
+    "name": "CRESCENT"
+  },
+  "21": {
+    "name": "CROSSBONES"
+  },
+  "22": {
+    "name": "CRYSTAL"
+  },
+  "23": {
+    "name": "CULL OBSIDIAN"
+  },
+  "24": {
+    "name": "CYCLOPS"
+  },
+  "25": {
+    "name": "DAISY JOHNSON"
+  },
+  "26": {
+    "name": "DAREDEVIL"
+  },
+  "27": {
+    "name": "DEADPOOL"
+  },
+  "28": {
+    "name": "DEATHLOK"
+  },
+  "29": {
+    "name": "DESTROYER"
+  },
+  "30": {
+    "name": "DOCTOR OCTOPUS"
+  },
+  "31": {
+    "name": "DOCTOR STRANGE"
+  },
+  "32": {
+    "name": "DOMINO"
+  },
+  "33": {
+    "name": "DRAX"
+  },
+  "34": {
+    "name": "EBONY MAW"
+  },
+  "35": {
+    "name": "ELEKTRA"
+  },
+  "36": {
+    "name": "ELSA BLOODSTONE"
+  },
+  "37": {
+    "name": "EMMA FROST"
+  },
+  "38": {
+    "name": "ERIK KILLMONGER (BLACK PANTHER)"
+  },
+  "39": {
+    "name": "FALCON"
+  },
+  "40": {
+    "name": "GAMORA"
+  },
+  "41": {
+    "name": "GHOST"
+  },
+  "42": {
+    "name": "GHOST RIDER"
+  },
+  "43": {
+    "name": "GIANT-MAN"
+  },
+  "44": {
+    "name": "GOLIATH"
+  },
+  "45": {
+    "name": "GREEN GOBLIN"
+  },
+  "46": {
+    "name": "GROOT"
+  },
+  "47": {
+    "name": "GWENPOOL"
+  },
+  "48": {
+    "name": "HAWKEYE"
+  },
+  "49": {
+    "name": "HELA"
+  },
+  "50": {
+    "name": "HULK"
+  },
+  "51": {
+    "name": "HULK (AMADEUS CHO)"
+  },
+  "52": {
+    "name": "HULKBUSTER"
+  },
+  "53": {
+    "name": "HUMAN TORCH"
+  },
+  "54": {
+    "name": "HYPERION"
+  },
+  "55": {
+    "name": "INFERNO"
+  },
+  "56": {
+    "name": "INVISIBLE WOMAN"
+  },
+  "57": {
+    "name": "IRON FIST"
+  },
+  "58": {
+    "name": "IRON MAN"
+  },
+  "59": {
+    "name": "JEAN GREY"
+  },
+  "60": {
+    "name": "KARNAK"
+  },
+  "61": {
+    "name": "KID KAIJU"
+  },
+  "62": {
+    "name": "KINGPIN"
+  },
+  "63": {
+    "name": "LASH"
+  },
+  "64": {
+    "name": "LOKI"
+  },
+  "65": {
+    "name": "LUKE CAGE"
+  },
+  "66": {
+    "name": "LUNA SNOW"
+  },
+  "67": {
+    "name": "M.O.D.O.K."
+  },
+  "68": {
+    "name": "MAESTRO"
+  },
+  "69": {
+    "name": "MAGIK"
+  },
+  "70": {
+    "name": "MAGNETO"
+  },
+  "71": {
+    "name": "MALEKITH"
+  },
+  "72": {
+    "name": "MEDUSA"
+  },
+  "73": {
+    "name": "MINN-ERVA"
+  },
+  "74": {
+    "name": "MISTER FANTASTIC"
+  },
+  "75": {
+    "name": "MOCKINGBIRD"
+  },
+  "76": {
+    "name": "MOON GIRL"
+  },
+  "77": {
+    "name": "MOON KNIGHT"
+  },
+  "78": {
+    "name": "MORDO"
+  },
+  "79": {
+    "name": "MS. MARVEL (KAMALA KHAN)"
+  },
+  "80": {
+    "name": "MYSTERIO"
+  },
+  "81": {
+    "name": "NAMOR"
+  },
+  "82": {
+    "name": "NEBULA"
+  },
+  "83": {
+    "name": "NICK FURY"
+  },
+  "84": {
+    "name": "NIGHTCRAWLER"
+  },
+  "85": {
+    "name": "PHIL COULSON"
+  },
+  "86": {
+    "name": "PROXIMA MIDNIGHT"
+  },
+  "87": {
+    "name": "PSYLOCKE"
+  },
+  "88": {
+    "name": "PUNISHER"
+  },
+  "89": {
+    "name": "QUAKE"
+  },
+  "90": {
+    "name": "QUICKSILVER"
+  },
+  "91": {
+    "name": "RED HULK"
+  },
+  "92": {
+    "name": "RED SKULL"
+  },
+  "93": {
+    "name": "ROCKET RACCOON"
+  },
+  "94": {
+    "name": "ROGUE"
+  },
+  "95": {
+    "name": "RONAN"
+  },
+  "96": {
+    "name": "RONIN"
+  },
+  "97": {
+    "name": "SABRETOOTH"
+  },
+  "98": {
+    "name": "SATANA"
+  },
+  "99": {
+    "name": "SCARLET WITCH"
+  },
+  "100": {
+    "name": "SHE-HULK"
+  },
+  "101": {
+    "name": "SHURI"
+  },
+  "102": {
+    "name": "SIF"
+  },
+  "103": {
+    "name": "SILK"
+  },
+  "104": {
+    "name": "SISTER GRIMM"
+  },
+  "105": {
+    "name": "SPIDER-GWEN"
+  },
+  "106": {
+    "name": "SPIDER-MAN"
+  },
+  "107": {
+    "name": "SPIDER-MAN (MILES MORALES)"
+  },
+  "108": {
+    "name": "SPIDER-MAN 2099"
+  },
+  "109": {
+    "name": "SQUIRREL GIRL"
+  },
+  "110": {
+    "name": "STAR-LORD"
+  },
+  "111": {
+    "name": "STORM"
+  },
+  "112": {
+    "name": "THANOS"
+  },
+  "113": {
+    "name": "THING"
+  },
+  "114": {
+    "name": "THOR"
+  },
+  "115": {
+    "name": "ULTRON"
+  },
+  "116": {
+    "name": "VENOM"
+  },
+  "117": {
+    "name": "VISION"
+  },
+  "118": {
+    "name": "VULTURE"
+  },
+  "119": {
+    "name": "WAR MACHINE"
+  },
+  "120": {
+    "name": "WASP"
+  },
+  "121": {
+    "name": "WHITE FOX"
+  },
+  "122": {
+    "name": "WINTER SOLDIER"
+  },
+  "123": {
+    "name": "WOLVERINE"
+  },
+  "124": {
+    "name": "WONG"
+  },
+  "125": {
+    "name": "X-23"
+  },
+  "126": {
+    "name": "YELLOWJACKET"
+  },
+  "127": {
+    "name": "YONDU"
+  }
+}

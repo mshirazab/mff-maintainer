@@ -1,0 +1,1611 @@
+{
+  "0": {
+    "charecterId": 15,
+    "cost": "500,000 Gold",
+    "name": "CAPTAIN AMERICA - AVENGERS: AGE OF ULTRON",
+    "options": [72, 91, 93, 28, 13],
+    "potrait_code": "hero_captainAmerica01_S01"
+  },
+  "1": {
+    "charecterId": 58,
+    "cost": "500,000 Gold",
+    "name": "IRON MAN - AVENGERS: AGE OF ULTRON",
+    "options": [77, 30, 37, 49, 17],
+    "potrait_code": "hero_ironman01_S01"
+  },
+  "2": {
+    "charecterId": 11,
+    "cost": "500,000 Gold",
+    "name": "BLACK WIDOW - AVENGERS: AGE OF ULTRON",
+    "options": [60, 87, 75, 61, 6],
+    "potrait_code": "hero_blackwidow01_S01"
+  },
+  "3": {
+    "charecterId": 114,
+    "cost": "500,000 Gold",
+    "name": "THOR - AVENGERS: AGE OF ULTRON",
+    "options": [21, 87, 27, 75, 36],
+    "potrait_code": "hero_thor01_S01"
+  },
+  "4": {
+    "charecterId": 48,
+    "cost": "500,000 Gold",
+    "name": "HAWKEYE - AVENGERS: AGE OF ULTRON",
+    "options": [9, 86, 55, 30, 32],
+    "potrait_code": "hero_hawkeye01_S01"
+  },
+  "5": {
+    "charecterId": 117,
+    "cost": "500,000 Gold",
+    "name": "VISION - AVENGERS: AGE OF ULTRON",
+    "options": [44, 34, 29, 90, 69],
+    "potrait_code": "hero_vision01_S01"
+  },
+  "6": {
+    "charecterId": 115,
+    "cost": "500,000 Gold",
+    "name": "ULTRON - AVENGERS: AGE OF ULTRON",
+    "options": [45, 65, 38, 43, 93],
+    "potrait_code": "sv_ultron_boss01_S01"
+  },
+  "7": {
+    "charecterId": 115,
+    "cost": "500,000 Gold",
+    "name": "ULTRON MARK 1 - AVENGERS: AGE OF ULTRON",
+    "options": [53, 40, 81, 39, 26],
+    "potrait_code": "sv_ultron_boss01_S02"
+  },
+  "8": {
+    "charecterId": 115,
+    "cost": "500,000 Gold",
+    "name": "ULTRON MARK 3 - AVENGERS: AGE OF ULTRON",
+    "options": [75, 46, 90, 32, 40],
+    "potrait_code": "sv_ultron_boss01_S03"
+  },
+  "9": {
+    "charecterId": 39,
+    "cost": "500,000 Gold",
+    "name": "FALCON - ALL-NEW CAPTAIN AMERICA",
+    "options": [82, 14, 87, 68, 59],
+    "potrait_code": "hero_falcon01_S01"
+  },
+  "10": {
+    "charecterId": 119,
+    "cost": "500,000 Gold",
+    "name": "WAR MACHINE - IRON PATRIOT",
+    "options": [0, 35, 93, 41, 28],
+    "potrait_code": "hero_warmachine01_S01"
+  },
+  "11": {
+    "charecterId": 4,
+    "cost": "500,000 Gold",
+    "name": "ANT-MAN - MARVEL'S ANT-MAN",
+    "options": [31, 29, 79, 45, 6],
+    "potrait_code": "hero_antman01_S01"
+  },
+  "12": {
+    "charecterId": 44,
+    "cost": "500,000 Gold",
+    "name": "GOLIATH - MODERN",
+    "options": [6, 87, 85, 0, 84],
+    "potrait_code": "hero_giantman01_S01"
+  },
+  "13": {
+    "charecterId": 15,
+    "cost": "500,000 Gold",
+    "name": "CAPTAIN AMERICA - SECRET WARS: 2099",
+    "options": [38, 2, 16, 20, 22],
+    "potrait_code": "hero_captainAmerica01_S02"
+  },
+  "14": {
+    "charecterId": 68,
+    "cost": "500,000 Gold",
+    "name": "MAESTRO - SECRET WARS: FUTURE IMPERFECT",
+    "options": [32, 67, 46, 27, 48],
+    "potrait_code": "hero_hulk01_S01"
+  },
+  "15": {
+    "charecterId": 58,
+    "cost": "500,000 Gold",
+    "name": "IRON MAN - SECRET WARS: 2099",
+    "options": [25, 76, 72, 46, 30],
+    "potrait_code": "hero_ironman01_S02"
+  },
+  "16": {
+    "charecterId": 11,
+    "cost": "500,000 Gold",
+    "name": "BLACK WIDOW - SECRET WARS: 2099",
+    "options": [37, 18, 17, 86, 71],
+    "potrait_code": "hero_blackwidow01_S02"
+  },
+  "17": {
+    "charecterId": 106,
+    "cost": "500,000 Gold",
+    "name": "SPIDER-MAN - SECRET WARS: RENEW YOUR VOWS",
+    "options": [56, 15, 86, 73, 25],
+    "potrait_code": "hero_spiderman01_S01"
+  },
+  "18": {
+    "charecterId": 46,
+    "cost": "500,000 Gold",
+    "name": "GROOT - SECRET WARS: THORS",
+    "options": [91, 88, 85, 24, 26],
+    "potrait_code": "hero_groot01_S01"
+  },
+  "19": {
+    "charecterId": 17,
+    "cost": "-",
+    "name": "CAPTAIN MARVEL - SECRET WARS: CAPTAIN MARVEL & THE CAROL CORPS",
+    "options": [1, 63, 18, 5, 14],
+    "potrait_code": "hero_captainmarvel01_S01"
+  },
+  "20": {
+    "charecterId": 3,
+    "cost": "500,000 Gold",
+    "name": "ANGELA - SECRET WARS: 1602 WITCH HUNTER ANGELA",
+    "options": [92, 69, 42, 26, 47],
+    "potrait_code": "hero_angela01_S01"
+  },
+  "21": {
+    "charecterId": 116,
+    "cost": "500,000 Gold",
+    "name": "VENOM - SECRET WARS: MARVEL ZOMBIES",
+    "options": [52, 93, 49, 41, 4],
+    "potrait_code": "sv_venom01_S01"
+  },
+  "22": {
+    "charecterId": 62,
+    "cost": "500,000 Gold",
+    "name": "KINGPIN - SECRET WARS: ARMOR WARS",
+    "options": [92, 85, 15, 14, 80],
+    "potrait_code": "sv_kingpin01_S01"
+  },
+  "23": {
+    "charecterId": 13,
+    "cost": "500,000 Gold",
+    "name": "BULLSEYE - SECRET WARS: 1872",
+    "options": [59, 75, 56, 89, 47],
+    "potrait_code": "sv_bullseye01_S01"
+  },
+  "24": {
+    "charecterId": 100,
+    "cost": "500,000 Gold",
+    "name": "SHE-HULK - ALL-NEW",
+    "options": [70, 39, 65, 59, 16],
+    "potrait_code": "hero_shehulk01_S01"
+  },
+  "25": {
+    "charecterId": 75,
+    "cost": "500,000 Gold",
+    "name": "MOCKINGBIRD - MARVEL'S AGENTS OF S.H.I.E.L.D.",
+    "options": [41, 94, 85, 16, 50],
+    "potrait_code": "hero_mockingbird01_S01"
+  },
+  "26": {
+    "charecterId": 89,
+    "cost": "500,000 Gold",
+    "name": "QUAKE - MODERN",
+    "options": [33, 75, 0, 29, 52],
+    "potrait_code": "hero_daisyjohnson01_S01"
+  },
+  "27": {
+    "charecterId": 28,
+    "cost": "500,000 Gold",
+    "name": "DEATHLOK - MODERN",
+    "options": [51, 6, 17, 1, 0],
+    "potrait_code": "hero_deathlok01_S01"
+  },
+  "28": {
+    "charecterId": 12,
+    "cost": "500,000 Gold",
+    "name": "BLADE - 70'S CLASSIC",
+    "options": [58, 34, 3, 55, 23],
+    "potrait_code": "hero_blade01_S01"
+  },
+  "29": {
+    "charecterId": 42,
+    "cost": "500,000 Gold",
+    "name": "GHOST RIDER - 70'S CLASSIC",
+    "options": [37, 83, 18, 86, 65],
+    "potrait_code": "hero_ghostrider01_S01"
+  },
+  "30": {
+    "charecterId": 88,
+    "cost": "500,000 Gold",
+    "name": "PUNISHER - NOIR",
+    "options": [13, 78, 48, 90, 2],
+    "potrait_code": "hero_punisher01_S01"
+  },
+  "31": {
+    "charecterId": 67,
+    "cost": "500,000 Gold",
+    "name": "M.O.D.O.K. - SPIDOC",
+    "options": [83, 32, 47, 46, 5],
+    "potrait_code": "sv_modok01_S01"
+  },
+  "32": {
+    "charecterId": 63,
+    "cost": "500,000 Gold",
+    "name": "LASH - MODERN",
+    "options": [67, 0, 15, 22, 12],
+    "potrait_code": "sv_lash01_S01"
+  },
+  "33": {
+    "charecterId": 9,
+    "cost": "500,000 Gold",
+    "name": "BLACK CAT - CLAWS",
+    "options": [72, 55, 41, 58, 53],
+    "potrait_code": "hero_blackcat01_S01"
+  },
+  "34": {
+    "charecterId": 26,
+    "cost": "500,000 Gold",
+    "name": "DAREDEVIL - DEVIL OF HELL'S KITCHEN",
+    "options": [9, 74, 89, 3, 78],
+    "potrait_code": "hero_daredevil01_S01"
+  },
+  "35": {
+    "charecterId": 30,
+    "cost": "500,000 Gold",
+    "name": "DOCTOR OCTOPUS - SUPERIOR SPIDER-MAN",
+    "options": [84, 4, 52, 42, 31],
+    "potrait_code": "sv_doctoroctopus01_S01"
+  },
+  "36": {
+    "charecterId": 57,
+    "cost": "500,000 Gold",
+    "name": "IRON FIST - NEW AVENGERS",
+    "options": [20, 33, 85, 81, 70],
+    "potrait_code": "hero_ironfist01_S01"
+  },
+  "37": {
+    "charecterId": 25,
+    "cost": "500,000 Gold",
+    "name": "DAISY JOHNSON - MARVEL'S AGENTS OF S.H.I.E.L.D. (QUAKE)",
+    "options": [44, 60, 6, 51, 42],
+    "potrait_code": "hero_daisyjohnson01_S02"
+  },
+  "38": {
+    "charecterId": 106,
+    "cost": "500,000 Gold",
+    "name": "SPIDER-MAN - ALL-NEW, ALL-DIFFERENT",
+    "options": [42, 35, 63, 11, 62],
+    "potrait_code": "hero_spiderman01_S02"
+  },
+  "39": {
+    "charecterId": 17,
+    "cost": "500,000 Gold",
+    "name": "CAPTAIN MARVEL - MS.MARVEL",
+    "options": [52, 1, 61, 74, 13],
+    "potrait_code": "hero_captainmarvel01_S02"
+  },
+  "40": {
+    "charecterId": 15,
+    "cost": "500,000 Gold",
+    "name": "CAPTAIN AMERICA - CAPTAIN AMERICA: THE WINTER SOLDIER",
+    "options": [43, 82, 77, 18, 39],
+    "potrait_code": "hero_captainAmerica01_S03"
+  },
+  "41": {
+    "charecterId": 119,
+    "cost": "500,000 Gold",
+    "name": "WAR MACHINE - AVENGERS: THE INITIATIVE",
+    "options": [33, 1, 42, 2, 5],
+    "potrait_code": "hero_warmachine01_S02"
+  },
+  "42": {
+    "charecterId": 104,
+    "cost": "500,000 Gold",
+    "name": "SISTER GRIMM - ALL-NEW, ALL-DIFFERENT",
+    "options": [36, 44, 69, 37, 17],
+    "potrait_code": "hero_nicominoru01_S01"
+  },
+  "43": {
+    "charecterId": 40,
+    "cost": "500,000 Gold",
+    "name": "GAMORA - ALL-NEW, ALL-DIFFERENT",
+    "options": [34, 40, 35, 56, 80],
+    "potrait_code": "hero_gamora01_S01"
+  },
+  "44": {
+    "charecterId": 8,
+    "cost": "500,000 Gold",
+    "name": "BLACK BOLT - ALL-NEW, ALL-DIFFERENT",
+    "options": [59, 66, 60, 81, 57],
+    "potrait_code": "hero_blackbolt01_S01"
+  },
+  "45": {
+    "charecterId": 3,
+    "cost": "500,000 Gold",
+    "name": "ANGELA - ALL-NEW, ALL-DIFFERENT",
+    "options": [87, 74, 63, 73, 25],
+    "potrait_code": "hero_angela01_S02"
+  },
+  "46": {
+    "charecterId": 50,
+    "cost": "500,000 Gold",
+    "name": "HULK - WORLD WAR HULK",
+    "options": [4, 2, 6, 93, 3],
+    "potrait_code": "hero_hulk01_S02"
+  },
+  "47": {
+    "charecterId": 64,
+    "cost": "500,000 Gold",
+    "name": "LOKI - LADY LOKI",
+    "options": [54, 36, 17, 50, 72],
+    "potrait_code": "sv_Loki01_S01"
+  },
+  "48": {
+    "charecterId": 33,
+    "cost": "500,000 Gold",
+    "name": "DRAX - ALL-NEW, ALL-DIFFERENT",
+    "options": [6, 58, 53, 88, 33],
+    "potrait_code": "hero_drax01_S01"
+  },
+  "49": {
+    "charecterId": 93,
+    "cost": "500,000 Gold",
+    "name": "ROCKET RACCOON - ALL-NEW, ALL-DIFFERENT",
+    "options": [62, 3, 6, 69, 73],
+    "potrait_code": "hero_rocketraccoon01_S01"
+  },
+  "50": {
+    "charecterId": 65,
+    "cost": "500,000 Gold",
+    "name": "LUKE CAGE - ALL-NEW, ALL-DIFFERENT",
+    "options": [6, 91, 76, 15, 70],
+    "potrait_code": "hero_lukecage01_S01"
+  },
+  "51": {
+    "charecterId": 110,
+    "cost": "500,000 Gold",
+    "name": "STAR-LORD - SPACE ARMOR",
+    "options": [54, 62, 15, 28, 26],
+    "potrait_code": "hero_starlord01_S01"
+  },
+  "52": {
+    "charecterId": 45,
+    "cost": "500,000 Gold",
+    "name": "GREEN GOBLIN - ULTIMATE",
+    "options": [7, 1, 6, 80, 69],
+    "potrait_code": "sv_greengoblin01_S01"
+  },
+  "53": {
+    "charecterId": 29,
+    "cost": "500,000 Gold",
+    "name": "DESTROYER - PROMETHEUS",
+    "options": [11, 91, 6, 54, 64],
+    "potrait_code": "sv_destroyer01_S01"
+  },
+  "54": {
+    "charecterId": 52,
+    "cost": "500,000 Gold",
+    "name": "HULKBUSTER (IRON MAN MK 43) - HEAVY DUTY ARMOR",
+    "options": [39, 62, 35, 49, 48],
+    "potrait_code": "hero_hulkbuster01_S01"
+  },
+  "55": {
+    "charecterId": 36,
+    "cost": "500,000 Gold",
+    "name": "ELSA BLOODSTONE - SECRET WARS: MARVEL ZOMBIES",
+    "options": [89, 76, 65, 49, 63],
+    "potrait_code": "hero_elsabloodstone01_S01"
+  },
+  "56": {
+    "charecterId": 48,
+    "cost": "1250 Crystals",
+    "name": "HAWKEYE - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [6, 58, 0, 94, 18],
+    "potrait_code": "hero_hawkeye01_S02"
+  },
+  "57": {
+    "charecterId": 39,
+    "cost": "1250 Crystals",
+    "name": "FALCON - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [64, 12, 71, 2, 61],
+    "potrait_code": "hero_falcon01_S02"
+  },
+  "58": {
+    "charecterId": 122,
+    "cost": "1250 Crystals",
+    "name": "WINTER SOLDIER - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [11, 12, 6, 59, 4],
+    "potrait_code": "hero_wintersoldier01_S01"
+  },
+  "59": {
+    "charecterId": 4,
+    "cost": "1250 Crystals",
+    "name": "ANT-MAN - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [70, 51, 22, 57, 58],
+    "potrait_code": "hero_antman01_S02"
+  },
+  "60": {
+    "charecterId": 15,
+    "cost": "1250 Crystals",
+    "name": "CAPTAIN AMERICA - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [77, 57, 64, 65, 61],
+    "potrait_code": "hero_captainAmerica01_S04"
+  },
+  "61": {
+    "charecterId": 58,
+    "cost": "1250 Crystals",
+    "name": "IRON MAN - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [51, 71, 68, 31, 78],
+    "potrait_code": "hero_ironman01_S03"
+  },
+  "62": {
+    "charecterId": 106,
+    "cost": "1250 Crystals",
+    "name": "SPIDER-MAN - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [94, 36, 71, 16, 53],
+    "potrait_code": "hero_spiderman01_S03"
+  },
+  "63": {
+    "charecterId": 119,
+    "cost": "1250 Crystals",
+    "name": "WAR MACHINE - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [50, 53, 20, 88, 11],
+    "potrait_code": "hero_warmachine01_S03"
+  },
+  "64": {
+    "charecterId": 10,
+    "cost": "1250 Crystals",
+    "name": "BLACK PANTHER - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [47, 29, 34, 66, 72],
+    "potrait_code": "hero_blackpanther01_S01"
+  },
+  "65": {
+    "charecterId": 95,
+    "cost": "1250 Crystals",
+    "name": "RONAN - ANNIHILATION",
+    "options": [90, 82, 89, 45, 14],
+    "potrait_code": "sv_ronan01_S01"
+  },
+  "66": {
+    "charecterId": 127,
+    "cost": "1250 Crystals",
+    "name": "YONDU - ALL-NEW, ALL-DIFFERENT",
+    "options": [71, 38, 21, 20, 12],
+    "potrait_code": "sv_yondu01_S01"
+  },
+  "67": {
+    "charecterId": 71,
+    "cost": "1250 Crystals",
+    "name": "MALEKITH - ALL-NEW, ALL-DIFFERENT",
+    "options": [57, 12, 41, 94, 5],
+    "potrait_code": "sv_malekith01_S01"
+  },
+  "68": {
+    "charecterId": 57,
+    "cost": "1250 Crystals",
+    "name": "IRON FIST - ALL-NEW, ALL-DIFFERENT",
+    "options": [66, 22, 44, 67, 32],
+    "potrait_code": "hero_ironfist01_S02"
+  },
+  "69": {
+    "charecterId": 75,
+    "cost": "1250 Crystals",
+    "name": "MOCKINGBIRD - ALL-NEW, ALL-DIFFERENT",
+    "options": [34, 10, 25, 92, 74],
+    "potrait_code": "hero_mockingbird01_S02"
+  },
+  "70": {
+    "charecterId": 11,
+    "cost": "1250 Crystals",
+    "name": "BLACK WIDOW - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [92, 10, 80, 31, 67],
+    "potrait_code": "hero_blackwidow01_S03"
+  },
+  "71": {
+    "charecterId": 0,
+    "cost": "1250 Crystals",
+    "name": "AGENT 13 - CAPTAIN AMERICA: CIVIL WAR",
+    "options": [68, 48, 14, 56, 73],
+    "potrait_code": "hero_sharoncarter01_s01"
+  },
+  "72": {
+    "charecterId": 92,
+    "cost": "1250 Crystals",
+    "name": "RED SKULL - SECRET WARS: RED SKULL",
+    "options": [78, 88, 13, 62, 20],
+    "potrait_code": "sv_redskull01_s01"
+  },
+  "73": {
+    "charecterId": 21,
+    "cost": "1250 Crystals",
+    "name": "CROSSBONES - MODERN",
+    "options": [81, 64, 43, 90, 68],
+    "potrait_code": "sv_crossbones01_s01"
+  },
+  "74": {
+    "charecterId": 67,
+    "cost": "1250 Crystals",
+    "name": "M.O.D.O.K. - CAPDOC",
+    "options": [28, 10, 80, 82, 11],
+    "potrait_code": "sv_modok01_S02"
+  },
+  "75": {
+    "charecterId": 88,
+    "cost": "1250 Crystals",
+    "name": "PUNISHER - WAR JOURNAL",
+    "options": [56, 39, 78, 9, 92],
+    "potrait_code": "hero_punisher01_S02"
+  },
+  "76": {
+    "charecterId": 122,
+    "cost": "1250 Crystals",
+    "name": "WINTER SOLDIER - CAPTAIN AMERICA",
+    "options": [79, 38, 31, 66, 13],
+    "potrait_code": "hero_wintersoldier01_S02"
+  },
+  "77": {
+    "charecterId": 120,
+    "cost": "1250 Crystals",
+    "name": "WASP - ALL-NEW, ALL-DIFFERENT",
+    "options": [36, 79, 84, 28, 48],
+    "potrait_code": "hero_wasp01_S01"
+  },
+  "78": {
+    "charecterId": 82,
+    "cost": "1250 Crystals",
+    "name": "NEBULA - CLASSIC",
+    "options": [83, 24, 51, 91, 82],
+    "potrait_code": "sv_nebula01_S01"
+  },
+  "79": {
+    "charecterId": 77,
+    "cost": "1250 Crystals",
+    "name": "MOON KNIGHT - ARMORED",
+    "options": [84, 89, 22, 23, 37],
+    "potrait_code": "hero_moonknight01_S01"
+  },
+  "80": {
+    "charecterId": 26,
+    "cost": "1250 Crystals",
+    "name": "DAREDEVIL - ALL-NEW, ALL-DIFFERENT",
+    "options": [1, 4, 21, 84, 9],
+    "potrait_code": "hero_daredevil01_S02"
+  },
+  "81": {
+    "charecterId": 9,
+    "cost": "1250 Crystals",
+    "name": "BLACK CAT - ALL-NEW, ALL-DIFFERENT",
+    "options": [3, 5, 54, 38, 21],
+    "potrait_code": "hero_blackcat01_S02"
+  },
+  "82": {
+    "charecterId": 42,
+    "cost": "1250 Crystals",
+    "name": "GHOST RIDER - INHUMANS: ATTILAN RISING",
+    "options": [88, 29, 76, 23, 66],
+    "potrait_code": "hero_ghostrider01_S02"
+  },
+  "83": {
+    "charecterId": 31,
+    "cost": "1250 Crystals",
+    "name": "DOCTOR STRANGE - MARVEL‘S DOCTOR STRANGE",
+    "options": [24, 76, 27, 52, 33],
+    "potrait_code": "hero_doctorstrange01_S01"
+  },
+  "84": {
+    "charecterId": 78,
+    "cost": "1250 Crystals",
+    "name": "MORDO - MARVEL‘S DOCTOR STRANGE",
+    "options": [6, 2, 10, 30, 83],
+    "potrait_code": "sv_baronmordo01_S01"
+  },
+  "85": {
+    "charecterId": 124,
+    "cost": "1250 Crystals",
+    "name": "WONG - MARVEL‘S DOCTOR STRANGE",
+    "options": [40, 10, 45, 6, 24],
+    "potrait_code": "hero_wong01_S01"
+  },
+  "86": {
+    "charecterId": 2,
+    "cost": "1250 Crystals",
+    "name": "ANCIENT ONE - MARVEL‘S DOCTOR STRANGE",
+    "options": [64, 45, 40, 23, 25],
+    "potrait_code": "hero_ancientone01_S01"
+  },
+  "87": {
+    "charecterId": 114,
+    "cost": "1250 Crystals",
+    "name": "THOR - UNWORTHY",
+    "options": [44, 54, 81, 23, 67],
+    "potrait_code": "hero_thor01_S02"
+  },
+  "88": {
+    "charecterId": 102,
+    "cost": "1250 Crystals",
+    "name": "SIF - MODERN",
+    "options": [94, 55, 73, 43, 46],
+    "potrait_code": "hero_sif01_S01"
+  },
+  "89": {
+    "charecterId": 103,
+    "cost": "1250 Crystals",
+    "name": "SILK - WEB SUIT",
+    "options": [77, 68, 21, 50, 49],
+    "potrait_code": "hero_silk01_S01"
+  },
+  "90": {
+    "charecterId": 126,
+    "cost": "1250 Crystals",
+    "name": "YELLOWJACKET - MARVEL NOW!",
+    "options": [83, 55, 27, 63, 9],
+    "potrait_code": "sv_yellowjacket01_S01"
+  },
+  "91": {
+    "charecterId": 15,
+    "cost": "1250 Crystals",
+    "name": "CAPTAIN AMERICA - MARVEL NOW!",
+    "options": [79, 26, 35, 50, 61],
+    "potrait_code": "hero_captainAmerica01_S05"
+  },
+  "92": {
+    "charecterId": 91,
+    "cost": "1250 Crystals",
+    "name": "RED HULK - MARVEL NOW!",
+    "options": [77, 83, 60, 70, 30],
+    "potrait_code": "sv_redhulk01_S01"
+  },
+  "93": {
+    "charecterId": 109,
+    "cost": "1250 Crystals",
+    "name": "SQUIRREL GIRL - MARVEL NOW!",
+    "options": [16, 74, 27, 60, 47],
+    "potrait_code": "hero_squirrelgirl01_S01"
+  },
+  "94": {
+    "charecterId": 51,
+    "cost": "1250 Crystals",
+    "name": "HULK (AMADEUS CHO) - MONSTERS UNLEASHED!",
+    "options": [79, 86, 24, 43, 57],
+    "potrait_code": "hero_amadeuscho01_S01"
+  },
+  "95": {
+    "charecterId": 8,
+    "cost": "1250 Crystals",
+    "name": "BLACK BOLT - ATTILAN RISING",
+    "options": [44, 64, 81, 1, 46],
+    "potrait_code": "hero_blackbolt01_S02"
+  },
+  "96": {
+    "charecterId": 79,
+    "cost": "1250 Crystals",
+    "name": "MS. MARVEL (KAMALA KHAN) - KARACHI COSTUME",
+    "options": [91, 94, 0, 39, 74],
+    "potrait_code": "hero_kamalakhan01_S01"
+  },
+  "97": {
+    "charecterId": 36,
+    "cost": "1250 Crystals",
+    "name": "ELSA BLOODSTONE - MONSTERS UNLEASHED!",
+    "options": [94, 72, 42, 20, 28],
+    "potrait_code": "hero_elsabloodstone01_S02"
+  },
+  "98": {
+    "charecterId": 57,
+    "cost": "1250 Crystals",
+    "name": "IRON FIST - MARVEL'S IRON FIST",
+    "options": [99, 76, 96, 16, 10],
+    "potrait_code": "hero_ironfist01_S03"
+  },
+  "99": {
+    "charecterId": 65,
+    "cost": "1250 Crystals",
+    "name": "LUKE CAGE - MARVEL'S LUKE CAGE",
+    "options": [98, 67, 47, 17, 11],
+    "potrait_code": "hero_lukecage01_S02"
+  },
+  "100": {
+    "charecterId": 88,
+    "cost": "1250 Crystals",
+    "name": "PUNISHER - MARVEL'S DAREDEVIL",
+    "options": [101, 68, 95, 73, 12],
+    "potrait_code": "hero_punisher01_S03"
+  },
+  "101": {
+    "charecterId": 35,
+    "cost": "1250 Crystals",
+    "name": "ELEKTRA - MARVEL'S DAREDEVIL",
+    "options": [100, 97, 74, 84, 14],
+    "potrait_code": "hero_elektra01_S01"
+  },
+  "102": {
+    "charecterId": 60,
+    "cost": "1250 Crystals",
+    "name": "KARNAK - ALL-NEW, ALL-DIFFERENT",
+    "options": [97, 95, 82, 80, 15],
+    "potrait_code": "hero_karnak01_S01"
+  },
+  "103": {
+    "charecterId": 110,
+    "cost": "1250 Crystals",
+    "name": "STAR-LORD - GUARDIANS OF THE GALAXY 2",
+    "options": [78, 96, 25, 10, 88],
+    "potrait_code": "hero_starlord01_S02"
+  },
+  "104": {
+    "charecterId": 93,
+    "cost": "1250 Crystals",
+    "name": "ROCKET RACCOON - GUARDIANS OF THE GALAXY 2",
+    "options": [100, 4, 52, 13, 66],
+    "potrait_code": "hero_rocketraccoon01_S02"
+  },
+  "105": {
+    "charecterId": 46,
+    "cost": "1250 Crystals",
+    "name": "GROOT - GUARDIANS OF THE GALAXY 2",
+    "options": [63, 93, 65, 98, 53],
+    "potrait_code": "hero_groot01_S02"
+  },
+  "106": {
+    "charecterId": 40,
+    "cost": "1250 Crystals",
+    "name": "GAMORA - GUARDIANS OF THE GALAXY 2",
+    "options": [5, 6, 69, 75, 99],
+    "potrait_code": "hero_gamora01_S02"
+  },
+  "107": {
+    "charecterId": 16,
+    "cost": "1250 Crystals",
+    "name": "CAPTAIN AMERICA (SHARON ROGERS) - STARLIGHT ARMOR",
+    "options": [30, 45, 102, 43, 27],
+    "potrait_code": "hero_sharonrogers01_S01"
+  },
+  "108": {
+    "charecterId": 47,
+    "cost": "1250 Crystals",
+    "name": "GWENPOOL - GWEN POOLE",
+    "options": [100, 105, 79, 3, 9],
+    "potrait_code": "hero_gwenpool01_s01"
+  },
+  "109": {
+    "charecterId": 22,
+    "cost": "1250 Crystals",
+    "name": "CRYSTAL - ROYAL SUIT",
+    "options": [101, 106, 44, 6, 48],
+    "potrait_code": "hero_crystal01_s01"
+  },
+  "110": {
+    "charecterId": 116,
+    "cost": "1250 Crystals",
+    "name": "VENOM - ANTI-VENOM",
+    "options": [103, 108, 23, 96, 85],
+    "potrait_code": "sv_venom01_S02",
+    "rating": "5",
+    "use": "WBU striker heal"
+  },
+  "111": {
+    "charecterId": 106,
+    "cost": "1250 Crystals",
+    "name": "SPIDER-MAN - SPIDER-MAN: HOME COMING HOMEMADE SUIT",
+    "options": [104, 109, 55, 37, 22],
+    "potrait_code": "hero_spiderman01_S04"
+  },
+  "112": {
+    "charecterId": 118,
+    "cost": "1250 Crystals",
+    "name": "VULTURE - SPIDER-MAN: HOMECOMING",
+    "options": [107, 21, 57, 26, 70],
+    "potrait_code": "sv_vulture01_S01"
+  },
+  "113": {
+    "charecterId": 127,
+    "cost": "1250 Crystals",
+    "name": "YONDU - GUARDIANS OF THE GALAXY 2",
+    "options": [18, 49, 50, 51, 32],
+    "potrait_code": "sv_yondu01_S02"
+  },
+  "114": {
+    "charecterId": 61,
+    "cost": "1250 Crystals",
+    "name": "KID KAIJU - MONSTERS UNLEASHED! (MFF VARIANT)",
+    "options": [94, 97, 36, 29, 31],
+    "potrait_code": "hero_kidkaiju01_S01"
+  },
+  "115": {
+    "charecterId": 105,
+    "cost": "1250 Crystals",
+    "name": "SPIDER-GWEN - GWENDOLYNE STACY",
+    "options": [33, 34, 35, 38, 89],
+    "potrait_code": "hero_spidergwen01_S01"
+  },
+  "116": {
+    "charecterId": 112,
+    "cost": "2500 Crystals",
+    "name": "THANOS - SECRET WARS: INFINITY",
+    "options": [113, 114, 115, 13, 15],
+    "potrait_code": "sv_thanos01_S01"
+  },
+  "117": {
+    "charecterId": 24,
+    "cost": "1250 Crystals",
+    "name": "CYCLOPS - AGE OF APOCALYPSE",
+    "options": [87, 56, 95, 40, 96],
+    "potrait_code": "hero_cyclops01_S01"
+  },
+  "118": {
+    "charecterId": 123,
+    "cost": "1750 Crystals",
+    "name": "WOLVERINE - AGE OF APOCALYPSE",
+    "options": [61, 102, 92, 58, 116],
+    "potrait_code": "hero_wolverine01_S01"
+  },
+  "119": {
+    "charecterId": 7,
+    "cost": "1250 Crystals",
+    "name": "BEAST - AGE OF APOCALYPSE",
+    "options": [86, 90, 24, 59, 62],
+    "potrait_code": "hero_beast01_S01"
+  },
+  "120": {
+    "charecterId": 94,
+    "cost": "1250 Crystals",
+    "name": "ROGUE - AGE OF APOCALYPSE",
+    "options": [60, 54, 71, 41, 77],
+    "potrait_code": "hero_rogue01_S01"
+  },
+  "121": {
+    "charecterId": 64,
+    "cost": "1750 Crystals",
+    "name": "LOKI - MARVEL'S THOR: RAGNAROK",
+    "options": [95, 96, 103, 119, 32],
+    "potrait_code": "sv_loki01_S02"
+  },
+  "122": {
+    "charecterId": 114,
+    "cost": "1750 Crystals",
+    "name": "THOR - MARVEL'S THOR: RAGNAROK",
+    "options": [104, 97, 112, 120, 69],
+    "potrait_code": "hero_thor01_S03"
+  },
+  "123": {
+    "charecterId": 50,
+    "cost": "1750 Crystals",
+    "name": "HULK - MARVEL'S THOR: RAGNAROK",
+    "options": [111, 98, 118, 66, 11],
+    "potrait_code": "hero_hulk01_S03"
+  },
+  "124": {
+    "charecterId": 49,
+    "cost": "1250 Crystals",
+    "name": "HELA - MARVEL'S THOR: RAGNAROK",
+    "options": [107, 99, 106, 14, 102],
+    "potrait_code": "sv_hela01_S01"
+  },
+  "125": {
+    "charecterId": 85,
+    "cost": "1250 Crystals",
+    "name": "PHIL COULSON - A.O.S. SEASON 3",
+    "options": [60, 102, 113, 114, 119],
+    "potrait_code": "hero_philcoulson01_S01"
+  },
+  "126": {
+    "charecterId": 55,
+    "cost": "1250 Crystals",
+    "name": "INFERNO - MODERN",
+    "options": [121, 97, 109, 15, 123],
+    "potrait_code": "hero_inferno01_S01"
+  },
+  "127": {
+    "charecterId": 98,
+    "cost": "1250 Crystals",
+    "name": "SATANA - MARVEL LEGACY",
+    "options": [107, 106, 117, 95, 126],
+    "potrait_code": "hero_satana01_S01"
+  },
+  "128": {
+    "charecterId": 39,
+    "cost": "1250 Crystals",
+    "name": "FALCON - MARVEL LEGACY",
+    "options": [121, 110, 100, 108, 93],
+    "potrait_code": "hero_falcon01_S03"
+  },
+  "129": {
+    "charecterId": 88,
+    "cost": "1750 Crystals",
+    "name": "PUNISHER - MARVEL LEGACY",
+    "options": [34, 99, 25, 98, 125],
+    "potrait_code": "hero_punisher01_S04"
+  },
+  "130": {
+    "charecterId": 10,
+    "cost": "Buy Pack(3300 Crystals)",
+    "name": "BLACK PANTHER - MARVEL'S BLACK PANTHER",
+    "options": [60, 128, 99, 125, 58],
+    "potrait_code": "hero_blackpanther01_S02"
+  },
+  "131": {
+    "charecterId": 101,
+    "cost": "1750 Crystals",
+    "name": "SHURI - MARVEL'S BLACK PANTHER",
+    "options": [104, 115, 12, 105, 113],
+    "potrait_code": "hero_shuri01_S01",
+    "rating": "3",
+    "use": "support"
+  },
+  "132": {
+    "charecterId": 38,
+    "cost": "1750 Crystals",
+    "name": "ERIK KILLMONGER (BLACK PANTHER) - MARVEL'S BLACK PANTHER",
+    "options": [124, 90, 101, 73, 64],
+    "potrait_code": "sv_killmonger01_S01"
+  },
+  "133": {
+    "charecterId": 24,
+    "cost": "1750 Crystals",
+    "name": "CYCLOPS - MARVEL NOW!",
+    "options": [102, 96, 107, 94, 118],
+    "potrait_code": "hero_cyclops01_S02"
+  },
+  "134": {
+    "charecterId": 123,
+    "cost": "1750 Crystals",
+    "name": "WOLVERINE - ALL-NEW MARVEL NOW!",
+    "options": [119, 120, 128, 117, 35],
+    "potrait_code": "hero_wolverine01_S02"
+  },
+  "135": {
+    "charecterId": 112,
+    "cost": "2500 Crystals",
+    "name": "THANOS - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [136, 137, 103, 106, 124],
+    "potrait_code": "sv_thanos01_S02"
+  },
+  "136": {
+    "charecterId": 19,
+    "cost": "1750 Crystals",
+    "name": "CORVUS GLAIVE - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [132, 129, 120, 118, 116],
+    "potrait_code": "sv_corvusglaive01_s01"
+  },
+  "137": {
+    "charecterId": 86,
+    "cost": "1750 Crystals",
+    "name": "PROXIMA MIDNIGHT - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [127, 126, 46, 108, 99],
+    "potrait_code": "sv_ProximaMidnight01_S01"
+  },
+  "138": {
+    "charecterId": 15,
+    "cost": "1750 Crystals",
+    "name": "CAPTAIN AMERICA - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [76, 57, 73, 125, 71],
+    "potrait_code": "hero_captainAmerica01_S06"
+  },
+  "139": {
+    "charecterId": 58,
+    "cost": "1750 Crystals",
+    "name": "IRON MAN - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [63, 123, 45, 106, 104],
+    "potrait_code": "hero_ironman01_S04"
+  },
+  "140": {
+    "charecterId": 106,
+    "cost": "1750 Crystals",
+    "name": "SPIDER-MAN - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [61, 110, 112, 96, 98],
+    "potrait_code": "hero_spiderman01_S05"
+  },
+  "141": {
+    "charecterId": 11,
+    "cost": "1750 Crystals",
+    "name": "BLACK WIDOW - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [96, 34, 58, 56, 91],
+    "potrait_code": "hero_blackwidow01_S04"
+  },
+  "142": {
+    "charecterId": 114,
+    "cost": "1750 Crystals",
+    "name": "THOR - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [88, 123, 128, 105, 121],
+    "potrait_code": "hero_thor01_S04"
+  },
+  "143": {
+    "charecterId": 122,
+    "cost": "1750 Crystals",
+    "name": "WINTER SOLDIER - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [107, 131, 130, 9, 40],
+    "potrait_code": "hero_wintersoldier01_S03",
+    "rating": "5"
+  },
+  "144": {
+    "charecterId": 46,
+    "cost": "1750 Crystals",
+    "name": "GROOT - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [109, 48, 113, 122, 104],
+    "potrait_code": "hero_groot01_S03"
+  },
+  "145": {
+    "charecterId": 23,
+    "cost": "1750 Crystals",
+    "name": "CULL OBSIDIAN - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [136, 137, 130, 132, 105],
+    "potrait_code": "sv_blackdwarf01_S01"
+  },
+  "146": {
+    "charecterId": 34,
+    "cost": "1750 Crystals",
+    "name": "EBONY MAW - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [140, 101, 122, 121, 135],
+    "potrait_code": "sv_ebonymaw01_S01"
+  },
+  "147": {
+    "charecterId": 31,
+    "cost": "1750 Crystals",
+    "name": "DOCTOR STRANGE - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [123, 85, 146, 140, 139],
+    "potrait_code": "hero_doctorstrange01_S02",
+    "rating": "4"
+  },
+  "148": {
+    "charecterId": 99,
+    "cost": "1750 Crystals",
+    "name": "SCARLET WITCH - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [127, 128, 120, 118, 141],
+    "potrait_code": "hero_scarletwitch01_S01",
+    "rating": "5"
+  },
+  "149": {
+    "charecterId": 93,
+    "cost": "1750 Crystals",
+    "name": "ROCKET RACCOON - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [143, 103, 113, 142, 144],
+    "potrait_code": "hero_rocketraccoon01_S03"
+  },
+  "150": {
+    "charecterId": 110,
+    "cost": "1750 Crystals",
+    "name": "STAR-LORD - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [138, 48, 139, 113, 106],
+    "potrait_code": "hero_starlord01_S03"
+  },
+  "151": {
+    "charecterId": 52,
+    "cost": "1750 Crystals",
+    "name": "HULKBUSTER 2.0 - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [112, 133, 123, 131, 108],
+    "potrait_code": "hero_hulkbuster01_S02"
+  },
+  "152": {
+    "charecterId": 119,
+    "cost": "1750 Crystals",
+    "name": "WAR MACHINE - MARVEL'S AVENGERS: INFINITY WAR",
+    "options": [129, 117, 139, 126, 111],
+    "potrait_code": "hero_warmachine01_S04"
+  },
+  "153": {
+    "charecterId": 4,
+    "cost": "1750 Crystals",
+    "name": "ANT-MAN - MARVEL'S ANT-MAN AND THE WASP",
+    "options": [138, 12, 143, 77, 103],
+    "potrait_code": "hero_antman01_S03"
+  },
+  "154": {
+    "charecterId": 120,
+    "cost": "1750 Crystals",
+    "name": "WASP - MARVEL'S ANT-MAN AND THE WASP",
+    "options": [133, 115, 149, 144, 39],
+    "potrait_code": "hero_wasp01_S02"
+  },
+  "155": {
+    "charecterId": 41,
+    "cost": "1750 Crystals",
+    "name": "GHOST - MARVEL'S ANT-MAN AND THE WASP",
+    "options": [99, 110, 129, 134, 140],
+    "potrait_code": "sv_ghost01_S01"
+  },
+  "156": {
+    "charecterId": 43,
+    "cost": "1250 Crystals",
+    "name": "GIANT-MAN - ULTRON PYM",
+    "options": [5, 6, 142, 124, 114],
+    "potrait_code": "hero_giantman01_S02"
+  },
+  "157": {
+    "charecterId": 18,
+    "cost": "1250 Crystals",
+    "name": "COLOSSUS - X-FORCE",
+    "options": [28, 123, 133, 134, 50],
+    "potrait_code": "hero_colossus01_S01"
+  },
+  "158": {
+    "charecterId": 14,
+    "cost": "1750 Crystals",
+    "name": "CABLE - X-FORCE",
+    "options": [120, 128, 117, 138, 145],
+    "potrait_code": "hero_cable01_S01",
+    "rating": "4.5"
+  },
+  "159": {
+    "charecterId": 1,
+    "cost": "1250 Crystals",
+    "name": "AGENT VENOM - AGENT ANTI-VENOM",
+    "options": [71, 110, 149, 125, 160],
+    "potrait_code": "hero_agentvenom01_S01",
+    "rating": "3.5"
+  },
+  "160": {
+    "charecterId": 90,
+    "cost": "1750 Crystals",
+    "name": "QUICKSILVER - MARVEL LEGACY",
+    "options": [148, 101, 115, 119, 147],
+    "potrait_code": "hero_quicksilver01_S01"
+  },
+  "161": {
+    "charecterId": 72,
+    "cost": "1250 Crystals",
+    "name": "MEDUSA - MONSTERS UNLEASHED! (MFF VARIANT)",
+    "options": [44, 122, 142, 124, 141],
+    "potrait_code": "hero_medusa01_S01"
+  },
+  "162": {
+    "charecterId": 64,
+    "cost": "750 Crystals",
+    "name": "LOKI - CLASSIC",
+    "options": [127, 109, 124, 106, 99],
+    "potrait_code": "sv_Loki01_S03"
+  },
+  "163": {
+    "charecterId": 48,
+    "cost": "750 Crystals",
+    "name": "HAWKEYE - CLASSIC",
+    "options": [45, 156, 108, 117, 135],
+    "potrait_code": "hero_hawkeye01_S03"
+  },
+  "164": {
+    "charecterId": 6,
+    "cost": "1250 Crystals",
+    "name": "ARCHANGEL - X-FORCE",
+    "options": [97, 115, 104, 160, 102],
+    "potrait_code": "hero_angel01_s01"
+  },
+  "165": {
+    "charecterId": 37,
+    "cost": "1750 Crystals",
+    "name": "EMMA FROST - MARVEL NOW!",
+    "options": [113, 131, 105, 161, 133],
+    "potrait_code": "hero_emmafrost01_s01"
+  },
+  "166": {
+    "charecterId": 125,
+    "cost": "1750 Crystals",
+    "name": "X-23 - X-FORCE",
+    "options": [100, 132, 156, 158, 98],
+    "potrait_code": "hero_x-2301_s01"
+  },
+  "167": {
+    "charecterId": 70,
+    "cost": "1750 Crystals",
+    "name": "MAGNETO - MARVEL NOW!",
+    "options": [126, 139, 157, 152, 74],
+    "potrait_code": "sv_magneto01_s01"
+  },
+  "168": {
+    "charecterId": 16,
+    "cost": "1750 Crystals",
+    "name": "CAPTAIN AMERICA (SHARON ROGERS) - DARK STAR ARMOR",
+    "options": [138, 71, 150, 129, 159],
+    "potrait_code": "hero_sharonrogers01_S02",
+    "rating": "4.5"
+  },
+  "169": {
+    "charecterId": 66,
+    "cost": "1750 Crystals",
+    "name": "LUNA SNOW - ANDROMEDA SUIT",
+    "options": [111, 139, 122, 149, 133],
+    "potrait_code": "hero_lunasnow01_S01",
+    "rating": "4"
+  },
+  "170": {
+    "charecterId": 107,
+    "cost": "1750 Crystals",
+    "name": "SPIDER-MAN (MILES MORALES) - INTO THE SPIDER-VERSE",
+    "options": [140, 130, 153, 158, 155],
+    "potrait_code": "hero_milesmorales01_s01"
+  },
+  "171": {
+    "charecterId": 54,
+    "cost": "1250 Crystals",
+    "name": "HYPERION - CLASSIC",
+    "options": [131, 139, 154, 151, 161],
+    "potrait_code": "hero_hyperion01_s01"
+  },
+  "172": {
+    "charecterId": 22,
+    "cost": "1250 Crystals",
+    "name": "CRYSTAL - FANTASTIC FOUR",
+    "options": [132, 149, 150, 157, 154],
+    "potrait_code": "hero_crystal01_S02",
+    "rating": "3.5"
+  },
+  "173": {
+    "charecterId": 100,
+    "cost": "1250 Crystals",
+    "name": "SHE-HULK - FANTASTIC FOUR",
+    "options": [164, 159, 161, 153, 171],
+    "potrait_code": "hero_shehulk01_S02",
+    "rating": "3",
+    "use": "support"
+  },
+  "174": {
+    "charecterId": 76,
+    "cost": "1750 Crystals",
+    "name": "MOON GIRL - MONSTERS UNLEASHED! (MFF VARIANT)",
+    "options": [155, 151, 156, 152, 127],
+    "potrait_code": "hero_moongirl01_S01"
+  },
+  "175": {
+    "charecterId": 17,
+    "cost": "1750 Crystals",
+    "name": "CAPTAIN MARVEL - MARVEL'S CAPTAIN MARVEL",
+    "options": [167, 142, 101, 156, 125],
+    "potrait_code": "hero_captainmarvel01_S03",
+    "rating": "5"
+  },
+  "176": {
+    "charecterId": 73,
+    "cost": "1750 Crystals",
+    "name": "MINN-ERVA - MARVEL'S CAPTAIN MARVEL",
+    "options": [166, 141, 100, 174, 122],
+    "potrait_code": "sv_doctorminerva01_S01",
+    "rating": "5"
+  },
+  "177": {
+    "charecterId": 83,
+    "cost": "1750 Crystals",
+    "name": "NICK FURY - MARVEL'S CAPTAIN MARVEL",
+    "options": [165, 138, 79, 173, 121],
+    "potrait_code": "hero_nickfury01_S01",
+    "rating": "3",
+    "use": "support"
+  },
+  "178": {
+    "charecterId": 95,
+    "cost": "1750 Crystals",
+    "name": "RONAN - MARVEL'S CAPTAIN MARVEL",
+    "options": [143, 112, 78, 172, 119],
+    "potrait_code": "sv_ronan01_S02"
+  },
+  "179": {
+    "charecterId": 123,
+    "cost": "1750 Crystals",
+    "name": "WOLVERINE - X-FORCE",
+    "options": [157, 114, 109, 159, 127],
+    "potrait_code": "hero_wolverine01_S03",
+    "rating": "4"
+  },
+  "180": {
+    "charecterId": 27,
+    "cost": "1750 Crystals",
+    "name": "DEADPOOL - X-FORCE",
+    "options": [144, 111, 134, 150, 110],
+    "potrait_code": "hero_deadpool01_S01",
+    "rating": "4"
+  },
+  "181": {
+    "charecterId": 84,
+    "cost": "1250 Crystals",
+    "name": "NIGHTCRAWLER - X-FORCE",
+    "options": [118, 151, 102, 126, 106],
+    "potrait_code": "hero_nightcrawler01_S01"
+  },
+  "182": {
+    "charecterId": 50,
+    "cost": "1750 Crystals",
+    "name": "HULK - MARVEL'S AVENGERS: ENDGAME",
+    "options": [141, 130, 26, 119, 115],
+    "potrait_code": "hero_hulk01_S04",
+    "rating": "4",
+    "synergy": ["HULK - TEAM SUIT", "hero_hulk01_S04"]
+  },
+  "183": {
+    "charecterId": 58,
+    "cost": "1750 Crystals",
+    "name": "IRON MAN - MARVEL'S AVENGERS: ENDGAME",
+    "options": [112, 124, 22, 129, 120],
+    "potrait_code": "hero_ironman01_S05",
+    "rating": "4.3",
+    "synergy": ["IRON MAN - TEAM SUIT", "hero_ironman01_S06"]
+  },
+  "184": {
+    "charecterId": 82,
+    "cost": "1750 Crystals",
+    "name": "NEBULA - MARVEL'S AVENGERS: ENDGAME",
+    "options": [134, 107, 42, 109, 125],
+    "potrait_code": "sv_nebula01_S02",
+    "synergy": ["NUBULA - TEAM SUIT", "sv_nebula01_S03"]
+  },
+  "185": {
+    "charecterId": 93,
+    "cost": "1750 Crystals",
+    "name": "ROCKET RACCOON - MARVEL'S AVENGERS: ENDGAME",
+    "options": [142, 65, 33, 20, 127],
+    "potrait_code": "hero_rocketraccoon01_S04",
+    "synergy": ["ROCKET RACCOON - TEAM SUIT", "hero_rocketraccoon01_S05"]
+  },
+  "186": {
+    "charecterId": 96,
+    "cost": "1750 Crystals",
+    "name": "RONIN - MARVEL'S AVENGERS: ENDGAME",
+    "options": [160, 17, 93, 157, 152],
+    "potrait_code": "hero_hawkeye01_S04",
+    "rating": "5"
+  },
+  "187": {
+    "charecterId": 112,
+    "cost": "2500 Crystals",
+    "name": "THANOS - MARVEL'S AVENGERS: ENDGAME",
+    "options": [132, 80, 55, 108, 103],
+    "potrait_code": "sv_thanos01_S03",
+    "rating": "5"
+  },
+  "188": {
+    "charecterId": 119,
+    "cost": "1750 Crystals",
+    "name": "WAR MACHINE - MARVEL'S AVENGERS ENDGAME",
+    "options": [161, 158, 29, 144, 170],
+    "potrait_code": "hero_warmachine01_S05",
+    "rating": "3.5",
+    "synergy": ["WAR MACHINE - TEAM SUIT", "hero_warmachine01_S06"]
+  },
+  "189": {
+    "charecterId": 4,
+    "cost": "1750 Crystals",
+    "name": "ANT-MAN - MARVEL'S AVENGERS ENDGAME",
+    "options": [111, 67, 37, 16, 156],
+    "potrait_code": "hero_antman01_S04",
+    "synergy": ["ANT-MAN - TEAM SUIT", "hero_antman01_S05"]
+  },
+  "190": {
+    "charecterId": 11,
+    "cost": "1750 Crystals",
+    "name": "BLACK WIDOW - MARVEL'S AVENGERS ENDGAME",
+    "options": [43, 149, 155, 126, 110],
+    "potrait_code": "hero_blackwidow01_S05",
+    "synergy": ["BLACK WIDOW - TEAM SUIT", "hero_blackwidow01_S06"]
+  },
+  "191": {
+    "charecterId": 15,
+    "cost": "1750 Crystals",
+    "name": "CAPTAIN AMERICA - MARVEL'S AVENGERS ENDGAME",
+    "options": [143, 164, 151, 117, 95],
+    "potrait_code": "hero_captainAmerica01_S07",
+    "rating": "5",
+    "synergy": ["CAPTAIN AMERICA - TEAM SUIT", "hero_captainAmerica01_S08"]
+  },
+  "192": {
+    "charecterId": 114,
+    "cost": "1750 Crystals",
+    "name": "THOR - MARVEL'S AVENGERS ENDGAME",
+    "options": [154, 101, 167, 7, 128],
+    "potrait_code": "hero_thor01_S06",
+    "rating": "4",
+    "synergy": ["THOR - TEAM SUIT", "hero_thor01_S05"]
+  },
+  "193": {
+    "charecterId": 59,
+    "cost": "2500 Crystals",
+    "name": "JEAN GREY - X-MEN RED",
+    "options": [181, 159, 98, 41, 81],
+    "potrait_code": "hero_jeangrey01_S01",
+    "rating": "5"
+  },
+  "194": {
+    "charecterId": 87,
+    "cost": "1750 Crystals",
+    "name": "PSYLOCKE - DISASSEMBLED",
+    "options": [161, 157, 52, 23, 82],
+    "potrait_code": "hero_psylocke01_S01",
+    "rating": "4.5"
+  },
+  "195": {
+    "charecterId": 7,
+    "cost": "1750 Crystals",
+    "name": "BEAST - UNCANNY X-MEN",
+    "options": [53, 49, 36, 75, 72],
+    "potrait_code": "hero_beast01_S02"
+  },
+  "196": {
+    "charecterId": 111,
+    "cost": "1750 Crystals",
+    "name": "STORM - X-MEN RED",
+    "options": [131, 27, 164, 98, 92],
+    "potrait_code": "hero_storm01_S01",
+    "rating": "3"
+  },
+  "197": {
+    "charecterId": 106,
+    "cost": "1750 Crystals",
+    "name": "SPIDER-MAN - SPIDER-MAN: FAR FROM HOME",
+    "options": [51, 105, 31, 89, 24],
+    "potrait_code": "hero_spiderman01_S06",
+    "synergy": ["SPIDER-MAN - STEALTH SUIT", "hero_spiderman01_S07"]
+  },
+  "198": {
+    "charecterId": 80,
+    "cost": "1750 Crystals",
+    "name": "MYSTERIO - SPIDER-MAN: FAR FROM HOME",
+    "options": [47, 54, 38, 30, 69],
+    "potrait_code": "sv_mysterio01_S01",
+    "rating": "4.3"
+  },
+  "199": {
+    "charecterId": 108,
+    "cost": "1750 Crystals",
+    "name": "SPIDER-MAN 2099 - ALL-NEW ALL-DIFFERENT",
+    "options": [70, 52, 97, 79, 100],
+    "potrait_code": "hero_spiderman209901_S01",
+    "rating": "4.5"
+  },
+  "200": {
+    "charecterId": 53,
+    "cost": "1750 Crystals",
+    "name": "HUMAN TORCH - FUTURE FOUNDATION",
+    "options": [140, 173, 164, 114, 170],
+    "potrait_code": "hero_humantorch01_S01",
+    "rating": "4"
+  },
+  "201": {
+    "charecterId": 56,
+    "cost": "1750 Crystals",
+    "name": "INVISIBLE WOMAN - FUTURE FOUNDATION",
+    "options": [154, 151, 177, 176, 159],
+    "potrait_code": "hero_invisiblewoman01_S01",
+    "rating": "4"
+  },
+  "202": {
+    "charecterId": 74,
+    "cost": "1750 Crystals",
+    "name": "MISTER FANTASTIC - FUTURE FOUNDATION",
+    "options": [166, 122, 133, 165, 143],
+    "potrait_code": "hero_misterfantastic01_S01",
+    "rating": "4.3"
+  },
+  "203": {
+    "charecterId": 113,
+    "cost": "1750 Crystals",
+    "name": "THING - FUTURE FOUNDATION",
+    "options": [121, 178, 157, 152, 181],
+    "potrait_code": "hero_thing01_S01"
+  },
+  "204": {
+    "charecterId": 18,
+    "cost": "1750 Crystals",
+    "name": "COLOSSUS - PHOENIX FIVE",
+    "options": [86, 130, 62, 87, 84],
+    "potrait_code": "hero_colossus01_S02",
+    "rating": "5",
+    "use": "support"
+  },
+  "205": {
+    "charecterId": 24,
+    "cost": "1750 Crystals",
+    "name": "CYCLOPS - PHOENIX FIVE",
+    "options": [121, 153, 166, 165, 115],
+    "potrait_code": "hero_cyclops01_S03",
+    "rating": "4.3"
+  },
+  "206": {
+    "charecterId": 37,
+    "cost": "1750 Crystals",
+    "name": "EMMA FROST - PHOENIX FIVE",
+    "options": [122, 111, 176, 108, 150],
+    "potrait_code": "hero_emmafrost01_S02",
+    "rating": "4.3"
+  },
+  "207": {
+    "charecterId": 81,
+    "cost": "1750 Crystals",
+    "name": "NAMOR - PHOENIX FIVE",
+    "options": [131, 118, 123, 59, 114],
+    "potrait_code": "hero_namor01_S01",
+    "rating": "4.3"
+  },
+  "208": {
+    "charecterId": 69,
+    "cost": "1750 Crystals",
+    "name": "MAGIK - PHOENIX FIVE",
+    "options": [177, 112, 132, 68, 21],
+    "potrait_code": "hero_magik01_S01",
+    "rating": "3.5"
+  },
+  "209": {
+    "charecterId": 90,
+    "cost": "1750 Crystals",
+    "name": "QUICKSILVER - UNCANNY AVENGERS",
+    "options": [186, 137, 201, 190.1, 179],
+    "potrait_code": "hero_quicksilver01_S02",
+    "rating": "4.5"
+  },
+  "210": {
+    "charecterId": 99,
+    "cost": "1750 Crystals",
+    "name": "SCARLET WITCH - UNCANNY AVENGERS",
+    "options": [174, 83, 103, 172, 145],
+    "potrait_code": "hero_scarletwitch01_S02",
+    "rating": "5"
+  },
+  "211": {
+    "charecterId": 94,
+    "cost": "1750 Crystals",
+    "name": "ROGUE - UNCANNY AVENGERS",
+    "options": [196, 18, 184.1, 192, 155],
+    "potrait_code": "hero_rogue01_S02",
+    "rating": "5"
+  },
+  "212": {
+    "charecterId": 117,
+    "cost": "1250 Crystals",
+    "name": "VISION - UNCANNY AVENGERS",
+    "options": [182.1, 178, 148, 159, 104],
+    "potrait_code": "hero_vision01_S02"
+  },
+  "213": {
+    "charecterId": 97,
+    "cost": "1750 Crystals",
+    "name": "SABRETOOTH - UNCANNY AVENGERS",
+    "options": [166, 153, 195, 131, 167],
+    "potrait_code": "sv_sabertooth01_S01",
+    "rating": "4"
+  },
+  "214": {
+    "charecterId": 66,
+    "cost": "1750 Crystals",
+    "name": "LUNA SNOW - LIFESTYLE SERIES 1",
+    "options": [152, 165, 177, 181, 146],
+    "potrait_code": "hero_lunasnow01_S02",
+    "rating": "4"
+  },
+  "215": {
+    "charecterId": 20,
+    "cost": "1750 Crystals",
+    "name": "CRESCENT - LIFESTYLE SERIES 1",
+    "options": [173, 175, 180, 153, 150],
+    "potrait_code": "hero_crescent01_S01"
+  },
+  "216": {
+    "charecterId": 121,
+    "cost": "1750 Crystals",
+    "name": "WHITE FOX - LIFESTYLE SERIES 1",
+    "options": [169, 176, 144, 189.1, 203],
+    "potrait_code": "hero_whitefox01_S01",
+    "rating": "3",
+    "use": "support"
+  },
+  "217": {
+    "charecterId": 14,
+    "cost": "1750 Crystals",
+    "name": "CABLE - CABLE AND DEADPOOL",
+    "options": [141, 171, 120, 188, 136],
+    "potrait_code": "hero_cable01_S02",
+    "rating": "5"
+  },
+  "218": {
+    "charecterId": 27,
+    "cost": "1750 Crystals",
+    "name": "DEADPOOL - LADY DEADPOOL",
+    "options": [202, 164, 170, 160, 105],
+    "potrait_code": "hero_deadpool01_S02",
+    "rating": "4.5"
+  },
+  "219": {
+    "charecterId": 32,
+    "cost": "1750 Crystals",
+    "name": "DOMINO - MARVEL NOW",
+    "options": [183.1, 113, 168, 100, 157],
+    "potrait_code": "hero_domino01_S01",
+    "rating": "3.5"
+  },
+  "220": {
+    "charecterId": 5,
+    "cost": "2500 Crystals",
+    "name": "APOCALYPSE - MESSIAH COMPLEX",
+    "options": [109, 147, 154, 185, 199],
+    "potrait_code": "sv_apocalypse01_S01",
+    "rating": "4.5"
+  }
+}
